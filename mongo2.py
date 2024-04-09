@@ -1,3 +1,9 @@
-import mongo
+import biblioteca
 
-mongo.AbrirArquivo("C:\\temp\\Arduino\\README.md")
+#biblioteca.AbrirArquivo("C:\\temp\\Arduino\\README.md")
+
+numero= biblioteca.RetornarTerminar(2)
+
+
+
+print(numero)
