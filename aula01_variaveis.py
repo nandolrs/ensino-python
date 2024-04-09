@@ -1,6 +1,6 @@
 # armazene um valor numérico na memória com o uso de variáveis
 
-zero = 0 
+zero = 00 
 
 print (zero)
 
