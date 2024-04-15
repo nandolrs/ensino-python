@@ -1,6 +1,8 @@
-numeros = [10,20,30]
+import biblioteca
 
-maior = RetornarMaiorV1R1(numeros)
+numeros = [10, 10, 20, 20]
+
+maior = biblioteca.RetornarMaiorV1R1(numeros)
 
 print (maior)
 

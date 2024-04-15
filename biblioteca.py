@@ -43,3 +43,16 @@ def RetornarMaior(n1, n2, n3):
         retornar= n3 
 
     return retornar
+
+#Retornar qualquer número
+
+def RetornarMaiorV1R1(novosnumeros):
+    retornar= novosnumeros[0]
+
+    for numero in novosnumeros:
+
+        if numero > retornar:
+            retornar = numero
+
+
+    return retornar
