@@ -27,3 +27,19 @@ def RetornarTerminar(terminar):
 
     
     return retornar
+
+# Retornar o maior número
+
+def RetornarMaior(n1, n2, n3):
+    retornar= None 
+
+    if n1>n2 and n1>n3:
+        retornar= n1
+
+    elif n2>n1 and n2>n3:
+        retornar= n2 
+
+    elif n3>n1 or n3>n2:
+        retornar= n3 
+
+    return retornar
