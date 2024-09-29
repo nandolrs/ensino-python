@@ -1,0 +1,10 @@
+{'Items': [
+        {'codigo': Decimal('2'), 'nome': 'nome 22'
+        },
+        {'codigo': Decimal('1'), 'nome': 'nome 11'
+        }
+    ], 'Count': 2, 'ScannedCount': 2, 'ResponseMetadata': {'RequestId': 'VU0KLERBAKM2MRILQ4DD2ESE9FVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Sat,
+            28 Sep 2024 08: 48: 48 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '126', 'connection': 'keep-alive', 'x-amzn-requestid': 'VU0KLERBAKM2MRILQ4DD2ESE9FVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2999356816'
+        }, 'RetryAttempts': 0
+    }
+}
